@@ -7,6 +7,7 @@
         <a href="index2.php"><h3>Staff</h3></a>
     </div>
     <div class="header-right">
-        <!-- <h3>Patient</h3> -->
+        <a href="index3.php"><h3>Insert Patient</h3></a>
+        <a href="index4.php"><h3>Insert Staff</h3></a>
     </div>
 </header>
